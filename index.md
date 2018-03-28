@@ -1,4 +1,4 @@
-![Head python](https://images.pexels.com/photos/39661/snake-ball-python-python-regius-beauty-39661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+![Head python](/images/python.jpg)
 ## About me
 
 
