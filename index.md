@@ -1,35 +1,24 @@
 ![Head python](/images/python.jpg)
+
 ## About me
 
+I'm a student\coder with some experience in Android and Django frameworks. I love funcitonall programming even though Haskell scares me deeply every time I see it.  
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 100 Days of code 
+[100 Days](https://github.com/JanStoltman/100DaysOfCode) -- My attempt at 100 Days of code challenge ([Official page](http://www.100daysofcode.com/))
 
-```markdown
-Syntax highlighted code block
+## Django 
+1. [LabDay](https://github.com/JanStoltman/LabDayBackend) -- Django backend for Lab Day event
+2. [SimpleChat](https://github.com/JanStoltman/100DaysOfCode/tree/master/Django/SOC2) -- Simple django chat utilising django channels
+3. [SimpleAPI](https://github.com/JanStoltman/100DaysOfCode/tree/master/Django/SOC) -- Simple django rest API
 
-# Header 1
-## Header 2
-### Header 3
+## Android
+1. [MeetMe](https://github.com/JanStoltman/MeetMe_frontend) -- MeetMe app
+2. [QwerteeShirts](https://github.com/JanStoltman/QwerteeShirts) -- Application for easier acces to current [Qwertee](https://www.qwertee.com/) shirts
+3. [FlyHighApp](https://github.com/JanStoltman/Fly_High) -- Android application for Fly High conference 
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JanStoltman/janstoltman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Do you want to get in touch with me? Awesome! Feel free to send me an email at stoltmanjan@gmail.com 
