@@ -15,7 +15,7 @@ I'm a student\coder with some experience in Android and Django frameworks. I lov
 3. [SimpleAPI](https://github.com/JanStoltman/100DaysOfCode/tree/master/Django/SOC) -- Simple django rest API
 
 ## Android
-1. [MeetMe](https://github.com/JanStoltman/MeetMe_frontend) -- MeetMe app
+1. [MeetMe](https://github.com/JanStoltman/MeetMe_frontend) -- MeetMe app #WIP
 2. [QwerteeShirts](https://github.com/JanStoltman/QwerteeShirts) -- Application for easier acces to current [Qwertee](https://www.qwertee.com/) shirts
 3. [FlyHighApp](https://github.com/JanStoltman/Fly_High) -- Android application for Fly High conference 
 
